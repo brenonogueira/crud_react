@@ -6,6 +6,6 @@ iniciar
 add dependencias package.json 
 
 ## npm install body-parser  
-##npm install express  
-##npm install mongoose  
+## npm install express  
+## npm install mongoose  
 ## npm install morgan  
